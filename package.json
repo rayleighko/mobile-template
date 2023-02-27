@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
+  "engines": {
+    "node": "^16.17.0"
+  },
   "scripts": {
     "start": "react-native start",
     "ios": "react-native run-ios",
